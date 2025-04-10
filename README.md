@@ -1,4 +1,4 @@
-# webengineer_subject_finalproject-api-express
+# [MIGRATED] webengineer_subject_finalproject-api-express
 A RESTful API with a single endpoint, created for a web engineering course.
 
 # Tech stack
